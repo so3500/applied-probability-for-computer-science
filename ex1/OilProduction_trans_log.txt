@@ -1,0 +1,39 @@
+# Datafile Name: Oil production
+# Datafile Subjects: Energy
+# Story Names: Oil production
+# Reference: Moore, David S., and George P. McCabe (1989). Introduction to the Practice of Statistics. Original source: Energy Information Administraton, recorded in Romer, Robert H., Energy: An Introduction to Physics, W.H. Freeman, San Francisco, 1976 for 1880 to 1972, and in The World Almanac and #Book of Facts 1986 for more recent years.
+# Authorization:
+# Description: Annual world crude oil production in millions of barrels, 1880-1984
+# Number of cases: 27
+# Variable Names:
+# Year: Year
+# Mbbl: Millions of barrels of crude oil produced
+# The Data:
+# Year	Mbbl
+1880	3.401
+1890	4.344
+1900	5.004
+1905	5.371
+1910	5.793
+1915	6.068
+1920	6.535
+1925	6.974
+1930	7.253
+1935	7.412
+1940	7.673
+1945	7.861
+1950	8.244
+1955	8.635
+1960	8.946
+1962	9.092
+1964	9.241
+1966	9.394
+1968	9.554
+1970	9.723
+1972	9.83
+1974	9.923
+1976	9.913
+1978	9.995
+1980	9.987
+1982	9.873
+1984	9.884

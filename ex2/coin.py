@@ -1,8 +1,5 @@
-'''
-학번: 12121527
-이름: 이성온
-
-컴퓨터 응용확률 homework 2
+﻿'''
+Sungon Lee
 '''
 # import random
 # import numpy as np

@@ -1,8 +1,5 @@
-'''
-학번: 12121527
-이름: 이성온
-
-컴퓨터 응용확률 homework 1
+﻿'''
+Sungon Lee
 
 변수 설명
 fluctuation_rate: 석유 생산량의 변화 비율
